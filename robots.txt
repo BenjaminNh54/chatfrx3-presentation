@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://BenjaminNh54.github.io/chatfrx3-presentation/sitemap.xml
